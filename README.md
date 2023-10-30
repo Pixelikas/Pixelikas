@@ -1,5 +1,7 @@
 <h2 align="left">Hi, I'm Lucas and this is my profile! 🙃</h2>
 
+<p align="left">👩‍🔬 Bachelor's degree in Computer Science (UNISUL) and Game Design (UNIVALI).<br>📚 Game developer / Front-End developer. <br>
+
 ###
 
 <div align="center">
