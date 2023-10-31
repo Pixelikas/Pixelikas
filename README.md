@@ -32,7 +32,7 @@
   <img width="5" />
   <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" height="45"/>
   <img width="5" />
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" height="45"/>
+  <img src="https://magicmedia.studio/wp-content/uploads/2021/08/icons_unreal_250x250.png" alt="unreal" height="45"/>
   <img width="5" />
   <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" alt="gamemaker" height="45"/>
   <img width="5" />
