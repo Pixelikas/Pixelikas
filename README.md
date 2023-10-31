@@ -38,7 +38,7 @@
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/900px-Construct_3_Logo.svg.png" alt="construct3" height="45"/>
 </div>
-<h3>Social Medias</h3>
+<h3>Social Media</h3>
 <div>
   <a href="mailto:lucasnaspolini@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4F4F4E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/lucas-naspolini-776a39148/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
