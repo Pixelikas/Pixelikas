@@ -1,8 +1,8 @@
 <h3>Hi, I'm Lucas and this is my profile! 🙃</h3>
 <p>👩‍🔬 Bachelor's degree in Computer Science (UNISUL) and Game Design (UNIVALI).<br>📚 Game developer / Game designer / Front-End developer. <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pixelikas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelikas&locale=en&hide_title=false&layout=compact&langs_count=10&theme=ocean_dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pixelikas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelikas&locale=en&hide_title=false&layout=compact&langs_count=10&theme=ocean_dark&hide_border=false" height="150"/>
 </div>
 <h3>Code & Game Engines</h3>
 <div>
