@@ -2,7 +2,7 @@
 <p>👩‍🔬 Bachelor's degree in Computer Science (UNISUL) and Game Design (UNIVALI).<br>📚 Game developer / Game designer / Front-End developer. <br>
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pixelikas&include_all_commits=true&show_icons=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" align = "center"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelikas&show_icons=true&locale=en&layout=compact&hide_title=false&langs_count=12&theme=ocean_dark&hide_border=false" align = "center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelikas&show_icons=true&locale=en&layout=compact&hide_title=false&card_width=300&langs_count=12&theme=ocean_dark&hide_border=false" align = "center"/>
 </p>
 <h3>Code & Game Engines</h3>
 <div>
