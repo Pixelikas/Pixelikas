@@ -1,9 +1,9 @@
 <h3>Hi, I'm Lucas and this is my profile! 🙃</h3>
 <p>👩‍🔬 Bachelor's degree in Computer Science (UNISUL) and Game Design (UNIVALI).<br>📚 Game developer / Game designer / Front-End developer. <br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pixelikas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelikas&show_icons=true&locale=en&layout=compact&hide_title=false&langs_count=8&theme=ocean_dark&hide_border=false" height="150"/>
-</div>
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pixelikas&include_all_commits=true&show_icons=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" align = "center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelikas&show_icons=true&locale=en&layout=compact&hide_title=false&langs_count=8&theme=ocean_dark&hide_border=false" align = "center"/>
+  </p>
 <h3>Code & Game Engines</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
