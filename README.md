@@ -30,7 +30,7 @@
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" height="45"/>
   <img width="2" />
-  <img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" alt="unreal" height="45"/>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/ue4editor-icon.png" alt="unreal" height="45"/>
   <img width="2" />
   <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" alt="gamemaker" height="45"/>
   <img width="2" />
