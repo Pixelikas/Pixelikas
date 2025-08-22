@@ -26,7 +26,7 @@
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
   <img width="2" />
-  <img src="https://icon-library.com/images/unity-icon-png/unity-icon-png-23.jpg" alt="unity" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000" alt="unity" height="45"/>
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" height="45"/>
   <img width="2" />
