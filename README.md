@@ -30,7 +30,7 @@
   <img width="2" />
   <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" alt="gamemaker" height="45"/>
   <img width="2" />
-  <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Construct_3_Logo.svg" alt="construct3" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="construct3" height="45"/>
 </div>
 <h3>Social Media</h3>
 <div>
