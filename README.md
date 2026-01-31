@@ -26,8 +26,6 @@
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" height="45"/>
   <img width="2" />
-  <img src="https://www.applegamingwiki.com/wiki/Unreal_Engine_5#/media/File:Unreal_engine_logo_2023.png" alt="unreal" height="45"/>
-  <img width="2" />
   <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" alt="gamemaker" height="45"/>
   <img width="2" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="construct3" height="45"/>
