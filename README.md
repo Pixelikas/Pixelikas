@@ -12,7 +12,7 @@
     srcset="[https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas)&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=pixelikas](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas)&show_icons=true" />
 </picture>
 <h3>Code & Game Engines</h3>
 <div>
