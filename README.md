@@ -6,7 +6,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true" />
-</picture><&nbsp>
+</picture>&nbsp
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas&layout=compact&theme=dark" height="200" />
 <h3>Code & Game Engines</h3>
 <div>
