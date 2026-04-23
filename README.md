@@ -9,8 +9,7 @@
 </picture>
 <picture>
   <source
-    srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas]"
-    media="(prefers-color-scheme: dark)"
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   />
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas)&show_icons=true" />
 </picture>
