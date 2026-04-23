@@ -9,7 +9,7 @@
 </picture>
 <picture>
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas)&theme=dark"
+    srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas]"
     media="(prefers-color-scheme: dark)"
   />
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas)&show_icons=true" />
