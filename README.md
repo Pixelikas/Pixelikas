@@ -7,12 +7,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true" />
 </picture>
-<picture>
-  <source
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas)&show_icons=true" />
-</picture>
 <h3>Code & Game Engines</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
