@@ -1,5 +1,5 @@
 <h3>Hi, I'm Lucas "Pixelikas" and this is my profile! 🙃</h3>
-<p>🎓 Bachelor's degree in Computer Science (UNISUL).<br>🎓 Bachelor's degree in Game Design (UNIVALI).<br>🎓 Master's degree in Design (UDESC).<br>👨‍💻 Game developer / Game designer / Front-End developer.<br>
+<p>🎓 Bachelor's degree in Computer Science (UNISUL).<br>🎓 Bachelor's degree in Game Design (UNIVALI).<br>🎓 Master's degree in Design (UDESC).<br>👨‍💻 Game developer / Game designer / Front-End developer.<br><br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true&theme=dark"
