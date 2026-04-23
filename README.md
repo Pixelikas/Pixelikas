@@ -7,13 +7,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true" />
 </picture>
-<picture>
-  <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true&theme=dark](https://github.com/pixelikas/github-readme-stats)"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true" />
-</picture>
 <h3>Code & Game Engines</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
