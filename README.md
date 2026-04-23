@@ -2,7 +2,7 @@
 <p>🎓 Bachelor's degree in Computer Science (UNISUL).<br>🎓 Bachelor's degree in Game Design (UNIVALI).<br>🎓 Master's degree in Design (UDESC).<br>👨‍💻 Game developer / Game designer / Front-End developer.<br>
 <h3>Code & Game Engines</h3>
 <div>
-  [![Your GitHub stats](https://vercel.app)](https://github.com/pixelikas/github-readme-stats)
+  [![Pixelikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelikas)](https://github.com/pixelikas)
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
