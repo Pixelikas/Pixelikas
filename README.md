@@ -1,13 +1,5 @@
 <h3>Hi, I'm Lucas "Pixelikas" and this is my profile! 🙃</h3>
 <p>🎓 Bachelor's degree in Computer Science (UNISUL).<br>🎓 Bachelor's degree in Game Design (UNIVALI).<br>🎓 Master's degree in Design (UDESC).<br>👨‍💻 Game developer / Game designer / Front-End developer.<br><br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelikas&show_icons=true" />
-</picture>&nbsp
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelikas&layout=compact&theme=dark" height="200" />
 <h3>Code & Game Engines</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
