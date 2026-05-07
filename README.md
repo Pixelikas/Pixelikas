@@ -1,5 +1,5 @@
 <h3>Hi, I'm Lucas "Pixelikas" and this is my profile! 🙃</h3>
-<p>🎓 Bachelor's degree in Computer Science (UNISUL).<br>🎓 Bachelor's degree in Game Design (UNIVALI).<br>🎓 Master's degree in Design (UDESC).<br>👨‍💻 Game developer / Game designer / Front-End developer.<br><br>
+<p>🎓 Bachelor's degree in Computer Science (UNISUL).<br>🎓 Bachelor's degree in Game Design (UNIVALI).<br>🎓 Master's degree in Design (UDESC).<br>👨‍💻 Game developer / Game designer / Front-End developer.<br>
 <h3>Code & Game Engines</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
